@@ -103,6 +103,9 @@ Dies ist eine Sammlung von Produktbildern für Getränkekassen in Hackspaces.
 <img src="hermann/rhabarber-330.png" width="64" height="64" />&nbsp;
 <img src="hermann/zitrone-330.png" width="64" height="64" />&nbsp;
 
+## Lapacho
+<img src="lapacho/lapacho-500.png" width="64" height="64" />&nbsp;
+
 ## Lemonaid
 <img src="lemonaid/charitea-black-330.png" width="64" height="64" />&nbsp;
 <img src="lemonaid/charitea-green-330.png" width="64" height="64" />&nbsp;
