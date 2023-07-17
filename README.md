@@ -157,6 +157,7 @@ Dies ist eine Sammlung von Produktbildern für Getränkekassen in Hackspaces.
 
 ## Proviant
 <img src="_composite/proviant-330.png" width="64" height="64" />&nbsp;
+<img src="_composite/proviant-limo-330.png" width="64" height="64" />&nbsp;
 <img src="proviant/apfel-330.png" width="64" height="64" />&nbsp;
 <img src="proviant/cola-fair-330.png" width="64" height="64" />&nbsp;
 <img src="proviant/cola-zuckerfrei-330.png" width="64" height="64" />&nbsp;
