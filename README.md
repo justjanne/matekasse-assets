@@ -212,6 +212,20 @@ Dies ist eine Sammlung von Produktbildern für Getränkekassen in Hackspaces.
 <img src="orangina/original-250.png" width="64" height="64" />&nbsp;
 <img src="orangina/rouge-250.png" width="64" height="64" />&nbsp;
 
+## Paulaner
+
+### 330ml
+<img src="paulaner/limo-orange-330.png" width="64" height="64" />&nbsp;
+<img src="paulaner/limo-zitrone-330.png" width="64" height="64" />&nbsp;
+<img src="paulaner/spezi-330.png" width="64" height="64" />&nbsp;
+<img src="paulaner/spezi-zero-330.png" width="64" height="64" />&nbsp;
+
+### 500ml
+<img src="paulaner/limo-orange-500.png" width="64" height="64" />&nbsp;
+<img src="paulaner/limo-zitrone-500.png" width="64" height="64" />&nbsp;
+<img src="paulaner/spezi-500.png" width="64" height="64" />&nbsp;
+<img src="paulaner/spezi-zero-500.png" width="64" height="64" />&nbsp;
+
 ## Premium
 
 ### 330ml
@@ -262,7 +276,6 @@ Dies ist eine Sammlung von Produktbildern für Getränkekassen in Hackspaces.
 <img src="_composite/spezi-330.png" width="64" height="64" />&nbsp;
 <img src="spezi/krombacher-330.png" width="64" height="64" />&nbsp;
 <img src="spezi/original-330.png" width="64" height="64" />&nbsp;
-<img src="spezi/paulaner-330.png" width="64" height="64" />&nbsp;
 
 ### 500ml
 <img src="_composite/spezi-500.png" width="64" height="64" />&nbsp;
@@ -273,7 +286,6 @@ Dies ist eine Sammlung von Produktbildern für Getränkekassen in Hackspaces.
 <img src="spezi/original-d-500.png" width="64" height="64" />&nbsp;
 <img src="spezi/original-klassik-500.png" width="64" height="64" />&nbsp;
 <img src="spezi/original-zero-500.png" width="64" height="64" />&nbsp;
-<img src="spezi/paulaner-500.png" width="64" height="64" />&nbsp;
 
 ## Vitamalz
 
