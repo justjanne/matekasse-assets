@@ -15,7 +15,7 @@ for brand in $(find . -maxdepth 1 -type d -iname "[a-z0-9]*" | sort | xargs -n1 
 	for size in $(ls $brand | awk -F '-' '{print $NF}' | cut -d '.' -f 1 | cut -d '@' -f 1 | sort -nu); do
 		echo "### ${size}ml" >> README.md
 		find "_composite" -iname "$brand-*" -iname "*-$size.png" | sort | sed -E 's#^(.*)$#<img src="\1" width="64" height="64" />\&nbsp;#' >> README.md
-		find "$brand" -iname "*-$size.png" | sort | sed -E 's#^(.*).png$#<a href="\1@2.png"><img src="\1.png" width="64" height="64" /></a>\&nbsp;#' >> README.md
+		find "$brand" -iname "*-$size.png" | sort | sed -E 's#^(.*)$#<img src="\1" width="64" height="64" />\&nbsp;#' >> README.md
 		echo >> README.md
 	done
 done
