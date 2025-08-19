@@ -73,7 +73,6 @@ Dies ist eine Sammlung von Produktbildern für Getränkekassen in Hackspaces.
 <img src="fritz/apfel-200.png" width="64" height="64" />&nbsp;
 <img src="fritz/apfel-kirsch-holunder-200.png" width="64" height="64" />&nbsp;
 <img src="fritz/kola-200.png" width="64" height="64" />&nbsp;
-<img src="fritz/kola-bio-200.png" width="64" height="64" />&nbsp;
 <img src="fritz/kola-superzero-200.png" width="64" height="64" />&nbsp;
 <img src="fritz/kola-zero-200.png" width="64" height="64" />&nbsp;
 <img src="fritz/melone-200.png" width="64" height="64" />&nbsp;
@@ -87,12 +86,14 @@ Dies ist eine Sammlung von Produktbildern für Getränkekassen in Hackspaces.
 <img src="fritz/anjola-330.png" width="64" height="64" />&nbsp;
 <img src="fritz/apfel-330.png" width="64" height="64" />&nbsp;
 <img src="fritz/apfel-kirsch-holunder-330.png" width="64" height="64" />&nbsp;
+<img src="fritz/ingwer-limette-330.png" width="64" height="64" />&nbsp;
 <img src="fritz/kola-330.png" width="64" height="64" />&nbsp;
 <img src="fritz/kola-bio-330.png" width="64" height="64" />&nbsp;
 <img src="fritz/kola-superzero-330.png" width="64" height="64" />&nbsp;
 <img src="fritz/kola-zero-330.png" width="64" height="64" />&nbsp;
 <img src="fritz/melone-330.png" width="64" height="64" />&nbsp;
 <img src="fritz/mischmasch-330.png" width="64" height="64" />&nbsp;
+<img src="fritz/mischmasch-superzero-330.png" width="64" height="64" />&nbsp;
 <img src="fritz/orange-330.png" width="64" height="64" />&nbsp;
 <img src="fritz/rhabarber-330.png" width="64" height="64" />&nbsp;
 <img src="fritz/traube-330.png" width="64" height="64" />&nbsp;
