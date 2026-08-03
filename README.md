@@ -43,6 +43,21 @@ Dies ist eine Sammlung von Produktbildern für Getränkekassen in Hackspaces.
 <img src="beckersbester/maracuja-330.png" width="64" height="64" />&nbsp;
 <img src="beckersbester/rhabarber-330.png" width="64" height="64" />&nbsp;
 
+## Climaid
+
+### 330ml
+<img src="climaid/apfelschorle-330.png" width="64" height="64" />&nbsp;
+<img src="climaid/brombeere-330.png" width="64" height="64" />&nbsp;
+<img src="climaid/grapefruit-330.png" width="64" height="64" />&nbsp;
+<img src="climaid/heidelbeere-330.png" width="64" height="64" />&nbsp;
+<img src="climaid/kola-330.png" width="64" height="64" />&nbsp;
+<img src="climaid/kola-zero-330.png" width="64" height="64" />&nbsp;
+<img src="climaid/mandarine-orange-330.png" width="64" height="64" />&nbsp;
+<img src="climaid/rhabarber-330.png" width="64" height="64" />&nbsp;
+<img src="climaid/sprudelnd-330.png" width="64" height="64" />&nbsp;
+<img src="climaid/still-330.png" width="64" height="64" />&nbsp;
+<img src="climaid/zitrone-330.png" width="64" height="64" />&nbsp;
+
 ## Club Mate
 
 ### 330ml
@@ -179,6 +194,14 @@ Dies ist eine Sammlung von Produktbildern für Getränkekassen in Hackspaces.
 <img src="luetts-landlust/stachel-baer-330.png" width="64" height="64" />&nbsp;
 <img src="luetts-landlust/streuobst-apfel-330.png" width="64" height="64" />&nbsp;
 
+## Matemate
+
+### 500ml
+<img src="_composite/matemate-500.png" width="64" height="64" />&nbsp;
+<img src="matemate/hanf-500.png" width="64" height="64" />&nbsp;
+<img src="matemate/original-500.png" width="64" height="64" />&nbsp;
+<img src="matemate/peach-lemongrass-500.png" width="64" height="64" />&nbsp;
+
 ## Mio Mio
 
 ### 330ml
@@ -280,7 +303,9 @@ Dies ist eine Sammlung von Produktbildern für Getränkekassen in Hackspaces.
 
 ### 500ml
 <img src="_composite/spezi-500.png" width="64" height="64" />&nbsp;
+<img src="_composite/spezi-zero-500.png" width="64" height="64" />&nbsp;
 <img src="spezi/krombacher-500.png" width="64" height="64" />&nbsp;
+<img src="spezi/krombacher-zero-500.png" width="64" height="64" />&nbsp;
 <img src="spezi/original-a-500.png" width="64" height="64" />&nbsp;
 <img src="spezi/original-b-500.png" width="64" height="64" />&nbsp;
 <img src="spezi/original-c-500.png" width="64" height="64" />&nbsp;
