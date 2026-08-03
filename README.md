@@ -125,6 +125,11 @@ Dies ist eine Sammlung von Produktbildern für Getränkekassen in Hackspaces.
 <img src="fritz/rhabarber-500.png" width="64" height="64" />&nbsp;
 <img src="fritz/zitrone-500.png" width="64" height="64" />&nbsp;
 
+## Fuechschen
+
+### 330ml
+<img src="fuechschen/alt-330.png" width="64" height="64" />&nbsp;
+
 ## Gesaris
 
 ### 330ml
@@ -152,6 +157,14 @@ Dies ist eine Sammlung von Produktbildern für Getränkekassen in Hackspaces.
 <img src="klar/medium-700.png" width="64" height="64" />&nbsp;
 <img src="klar/spritzig-700.png" width="64" height="64" />&nbsp;
 <img src="klar/still-700.png" width="64" height="64" />&nbsp;
+
+## Koelsches Wasser
+
+### 330ml
+<img src="_composite/koelsches-wasser-330.png" width="64" height="64" />&nbsp;
+<img src="koelsches-wasser/gruen-330.png" width="64" height="64" />&nbsp;
+<img src="koelsches-wasser/orange-330.png" width="64" height="64" />&nbsp;
+<img src="koelsches-wasser/pink-330.png" width="64" height="64" />&nbsp;
 
 ## Kräuterbraut
 
