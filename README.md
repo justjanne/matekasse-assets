@@ -211,6 +211,21 @@ Dies ist eine Sammlung von Produktbildern für Getränkekassen in Hackspaces.
 <img src="kraeuterbraut/brombeere-rosmarin-330.png" width="64" height="64" />&nbsp;
 <img src="kraeuterbraut/zitrone-minze-330.png" width="64" height="64" />&nbsp;
 
+## Krombacher
+
+### 330ml
+<img src="krombacher/fassbrause-cola-orange-330.png" width="64" height="64" />&nbsp;
+<img src="krombacher/fassbrause-himbeere-330.png" width="64" height="64" />&nbsp;
+<img src="krombacher/fassbrause-holunder-330.png" width="64" height="64" />&nbsp;
+<img src="krombacher/fassbrause-johannisbeere-330.png" width="64" height="64" />&nbsp;
+<img src="krombacher/fassbrause-kirsche-330.png" width="64" height="64" />&nbsp;
+<img src="krombacher/fassbrause-mango-330.png" width="64" height="64" />&nbsp;
+<img src="krombacher/fassbrause-maracuja-330.png" width="64" height="64" />&nbsp;
+<img src="krombacher/fassbrause-pfirsich-330.png" width="64" height="64" />&nbsp;
+<img src="krombacher/fassbrause-rhabarber-330.png" width="64" height="64" />&nbsp;
+<img src="krombacher/fassbrause-winterapfel-330.png" width="64" height="64" />&nbsp;
+<img src="krombacher/fassbrause-zitrone-330.png" width="64" height="64" />&nbsp;
+
 ## Lapacho
 
 ### 500ml
