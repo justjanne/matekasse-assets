@@ -164,6 +164,14 @@ Dies ist eine Sammlung von Produktbildern für Getränkekassen in Hackspaces.
 ### 330ml
 <img src="gesaris/classic-330.png" width="64" height="64" />&nbsp;
 
+## Granini
+
+### 330ml
+<img src="granini/cola-orange-330.png" width="64" height="64" />&nbsp;
+<img src="granini/grapefruit-cranberry-330.png" width="64" height="64" />&nbsp;
+<img src="granini/limette-zitrone-330.png" width="64" height="64" />&nbsp;
+<img src="granini/orange-lemongrass-330.png" width="64" height="64" />&nbsp;
+
 ## Hermann
 
 ### 330ml
