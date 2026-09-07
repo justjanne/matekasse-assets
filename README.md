@@ -142,6 +142,23 @@ Dies ist eine Sammlung von Produktbildern für Getränkekassen in Hackspaces.
 ### 330ml
 <img src="fuechschen/alt-330.png" width="64" height="64" />&nbsp;
 
+## Gaffels
+
+### 330ml
+<img src="gaffels/fassbrause-apfel-330.png" width="64" height="64" />&nbsp;
+<img src="gaffels/fassbrause-grapefruit-330.png" width="64" height="64" />&nbsp;
+<img src="gaffels/fassbrause-orange-330.png" width="64" height="64" />&nbsp;
+<img src="gaffels/fassbrause-zitrone-330.png" width="64" height="64" />&nbsp;
+<img src="gaffels/fastenbier-330.png" width="64" height="64" />&nbsp;
+<img src="gaffels/koelsch-330.png" width="64" height="64" />&nbsp;
+<img src="gaffels/koelsch-alkoholfrei-330.png" width="64" height="64" />&nbsp;
+<img src="gaffels/lemon-330.png" width="64" height="64" />&nbsp;
+<img src="gaffels/wiess-330.png" width="64" height="64" />&nbsp;
+<img src="gaffels/zeroo-330.png" width="64" height="64" />&nbsp;
+
+### 500ml
+<img src="gaffels/koelsch-500.png" width="64" height="64" />&nbsp;
+
 ## Gesaris
 
 ### 330ml
