@@ -11,6 +11,18 @@ Dies ist eine Sammlung von Produktbildern für Getränkekassen in Hackspaces.
 ### 330ml
 <img src="1337mate/mate-330.png" width="64" height="64" />&nbsp;
 
+## Adelholzener
+
+### 500ml
+<img src="adelholzener/apfelschorle-500.png" width="64" height="64" />&nbsp;
+<img src="adelholzener/johannisbeere-500.png" width="64" height="64" />&nbsp;
+<img src="adelholzener/orange-500.png" width="64" height="64" />&nbsp;
+<img src="adelholzener/rhabarber-500.png" width="64" height="64" />&nbsp;
+<img src="adelholzener/wasser-classic-500.png" width="64" height="64" />&nbsp;
+<img src="adelholzener/wasser-naturell-500.png" width="64" height="64" />&nbsp;
+<img src="adelholzener/wasser-sanft-500.png" width="64" height="64" />&nbsp;
+<img src="adelholzener/zitrone-500.png" width="64" height="64" />&nbsp;
+
 ## Afri-Cola
 
 ### 200ml
